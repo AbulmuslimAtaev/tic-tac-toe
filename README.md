@@ -3,4 +3,4 @@
 
 
 
-designed in python, therefore, python must be downloaded to use the application
+designed in python, therefore, to use the application, python must be downloaded (and libraries in the requirements.txt)
